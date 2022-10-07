@@ -24,7 +24,7 @@ def find_and_times(n):
         if n == ((n // i) * i):
             print("{}={}*{}".format(n, (n // i), i))
             break
-
+            
 
 def fac_list(ls):
     """factor each
